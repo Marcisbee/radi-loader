@@ -1,2 +1,2 @@
 # radi-loader
-Webpack loader for radi.js SFC
+Webpack loader for Radi.js components

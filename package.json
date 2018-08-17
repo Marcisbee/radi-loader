@@ -1,0 +1,17 @@
+{
+  "name": "radi-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for Radi.js components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcis <marcisbergmanis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "loader-utils": "^1.1.0"
+  },
+  "dependencies": {
+    "parcel-plugin-radi": "^0.4.1"
+  }
+}
